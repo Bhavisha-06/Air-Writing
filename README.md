@@ -31,7 +31,7 @@ This implementation is based on research in the field of gesture-based interface
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/airwrite.git
+git clone https://github.com/Bhavisha-06/Air-Writing.git
 cd airwrite
 ```
 
