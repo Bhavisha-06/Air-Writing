@@ -1,4 +1,4 @@
-**# Air-Writing**# : Hand Writing Recognition in Air with Computer Vision
+**Air-Writing** : Hand Writing Recognition in Air with Computer Vision
 
 This project implements AirWrite, a system that combines hand tracking with Google Cloud Vision to recognize text written in the air with your finger. The system uses your webcam to track hand movements, detects when you're "writing" with your index finger, and then uses Google's Vision API to convert your air-written gestures into text.
 
